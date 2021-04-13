@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hariharan67457
-- 👀 I’m interested in programming 
+- 👋 Hi, I’m Hariharan from Chennai,Tamilnadu 
+- 👀 I’m interested in python programming 
 - 🌱 I’m currently learning data analysis
 
 
